@@ -29,14 +29,14 @@ define( 'DB_COLLATE', '' );
  * Authentication unique keys and salts.
  * Generate new ones here: https://api.wordpress.org/secret-key/1.1/salt/
  */
-define('AUTH_KEY',            'replace-with-your-own-unique-phrase');
-define('SECURE_AUTH_KEY',     'replace-with-your-own-unique-phrase');
-define('LOGGED_IN_KEY',       'replace-with-your-own-unique-phrase');
-define('NONCE_KEY',           'replace-with-your-own-unique-phrase');
-define('AUTH_SALT',           'replace-with-your-own-unique-phrase');
-define('SECURE_AUTH_SALT',    'replace-with-your-own-unique-phrase');
-define('LOGGED_IN_SALT',      'replace-with-your-own-unique-phrase');
-define('NONCE_SALT',          'replace-with-your-own-unique-phrase');
+define('AUTH_KEY',            'm g=g~*+{m+iZdVwI/CQu%NSU>*$%#IWD@Am%g:,$.d4cJ$71$})[');
+define('SECURE_AUTH_KEY',     ';SLNM@.R8i@5yRE%XY#PlH.5Pde;<+iT1rj1[)a6qn-eSg/]Qe-8(<#<');
+define('LOGGED_IN_KEY',       'pA_~r#DyrK1@J`Y~|a+SN6|t]1xk+-iCRC3-emvC83CFZf%f`BO_2EopS!S8a&G%');
+define('NONCE_KEY',           'pXxRPo._FCL.eb|fzL8ib]|+oONX6c}%}AABx1[J+EMO>PYu}?$Ycn/xCCutoIN9');
+define('AUTH_SALT',           'DhW-e9gVmH4aCnvxTM5$,z77u#O74s*~K|*]lQN9:G) d^A U|j$f1n=_Wn|^ZBv');
+define('SECURE_AUTH_SALT',    '_iKbf>_WK(+&o5.uEB4+r<4>P1e!)mgs(=)<3,n^Cz2c/>ZPVU&K_Xmx z}ves}f');
+define('LOGGED_IN_SALT',      'i9}^r1t?Dru2@R.XSQF!JI3:+8D.F($=}Y_pe@{+9Qd|.%J5vF;oDFyl^:l}U6>a');
+define('NONCE_SALT',          'm g=g~*+{m+iZdVwI/CQu%NSU>*$%#IWD@Am%g:,$.d4cJ$71$})[');
 /**#@-*/
 
 /** WordPress database table prefix. */
